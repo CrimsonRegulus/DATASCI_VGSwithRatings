@@ -24,6 +24,8 @@ After looking through the data, we found out that NA and EU contain the largest 
 
 The next thing that we wanted to find out is the number of platforms the publisher published on will affect the sales. The data showed that the more platforms used, the higher the sales of the publisher will be. This is due to the fact that the same game is available on multiple platforms.
 
+![NumberofPlatforms](https://github.com/CrimsonRegulus/DATASCI_VGSwithRatings/blob/main/Results/numberofplatforms_globalsales.png?raw=true)
+
 Furthermore we also wanted to know if the number of titles published will affect sales. Based on the data it is heavily seen that the more number of titles published the higher the sales will be and the lower the number of titles, the less sales the publisher will have. This is due to the fact that the more titles means the more chances of having a successful game thus, resulting in more sales.
 
 To boost our understanding, we included the relationship between the number of platforms published on and the number of titles published. We found that the relationship is exponential. This is because games are published on many platforms.
