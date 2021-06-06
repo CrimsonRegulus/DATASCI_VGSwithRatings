@@ -1,6 +1,8 @@
 # DATASCI_VGSwithRatings
 Final Project for DATASCI using "Video Game Sales with Ratings" Dataset
 
+![NumberofPlatforms](https://github.com/CrimsonRegulus/DATASCI_VGSwithRatings/blob/main/Results/video-controller-336657_960_720.jpg?raw=true)
+
 ## Dataset
 The dataset is “Video Game Sales with Ratings” by Rush Kirubi, from Kaggle. The dataset contains the following: the name of the game, the platform the game is released on, the year the game is released, the genre of the game, the publisher of the game, how many millions of units were sold in North America, Europe, Japan, and other regions, as well as the aggregate of the global sales, the MetaCritic score, how many critics, the User score, how many users played the game, the developer of the game, and the ESRB rating of the game. For this analysis, only the name of the game, the genre of the game, the platform where the game is published on, the global sales, the breakdown of those sales, and the critic score will be used.
 
