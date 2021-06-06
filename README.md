@@ -22,13 +22,21 @@ We simply want to know which is the best selling genre in each region.
 ## What we found out!
 After looking through the data, we found out that NA and EU contain the largest share of the video game market. It is seen in the data that NA and EU have the majority of the market sales. We think this is due to the fact that NA and EU are a whole lot larger compared to the other regions.
 
+![NumberofPlatforms](https://github.com/CrimsonRegulus/DATASCI_VGSwithRatings/blob/main/Results/globalsales_critic.png?raw=true)
+
 The next thing that we wanted to find out is the number of platforms the publisher published on will affect the sales. The data showed that the more platforms used, the higher the sales of the publisher will be. This is due to the fact that the same game is available on multiple platforms.
 
+![NumberofPlatforms](https://github.com/CrimsonRegulus/DATASCI_VGSwithRatings/blob/main/Results/numberofplatforms_globalsales.png?raw=true)
+
 Furthermore we also wanted to know if the number of titles published will affect sales. Based on the data it is heavily seen that the more number of titles published the higher the sales will be and the lower the number of titles, the less sales the publisher will have. This is due to the fact that the more titles means the more chances of having a successful game thus, resulting in more sales.
+
+![NumberofPlatforms](https://github.com/CrimsonRegulus/DATASCI_VGSwithRatings/blob/main/Results/numberoftitles_globalsales.png?raw=true)
 
 To boost our understanding, we included the relationship between the number of platforms published on and the number of titles published. We found that the relationship is exponential. This is because games are published on many platforms.
 
 If we were to put ourselves in the shoes of a developer, we’d want to find out what is the best selling platform and genre in each region. We found out that For North America, the X360 has the most sales. For Europe and the other regions, the PS2 has the most sales. For Japan, the DS has the most sales. As for the genres, For North America, Europe, and the other regions, action games sell the most. While, for Japan, the RPGs sell the most.
+
+![NumberofPlatforms](https://github.com/CrimsonRegulus/DATASCI_VGSwithRatings/blob/main/Results/Genre_Platform.png?raw=true)
 
 ## Application of the gained knowledge
 To apply what we’ve learnt, we trained a linear regression model on the data. According to our model, a hypothetical publisher that published on 10 platforms and published 10 titles will sell 9.6 million units globally.
